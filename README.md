@@ -36,6 +36,8 @@ This module handles multivariable optimization under constraints using two diffe
 
 Each file is self-contained and can be executed directly. Simply clone the repository and run the desired script using Python:
 
+you can the functions and constraints by simply going into source code
+
 ```bash
 python single_variable_optimization.py
 python multivariable_optimization.py
